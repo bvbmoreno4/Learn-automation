@@ -5,6 +5,6 @@ public class HelloWorld {
         System.out.println("Enter your name");
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
-        System.out.println("Your name is + " + name);
+        System.out.println("Your name is " + name);
     }
 }
